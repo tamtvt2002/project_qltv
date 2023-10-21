@@ -1,0 +1,88 @@
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DAL.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DAL.pdb
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DTO.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\System.Data.SqlClient.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DTO.pdb
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\System.Data.SqlClient.xml
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DAL.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DAL.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DTO.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\System.Data.SqlClient.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DTO.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\System.Data.SqlClient.xml
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DAL.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DAL.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DTO.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\System.Data.SqlClient.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DTO.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\System.Data.SqlClient.xml
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DAL\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DAL\obj\Debug\DAL.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DAL\obj\Debug\DAL.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DAL\obj\Debug\DAL.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DAL\bin\Debug\DAL.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DAL\bin\Debug\DAL.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DAL\bin\Debug\DTO.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DAL\bin\Debug\System.Data.SqlClient.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DAL\bin\Debug\DTO.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DAL\bin\Debug\System.Data.SqlClient.xml
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Hệ thống quản lý thư viện (latest) (1)\DAL\bin\Debug\DAL.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\DAL\bin\Debug\DAL.pdb
+E:\Hệ thống quản lý thư viện (latest) (1)\DAL\bin\Debug\DTO.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\DAL\bin\Debug\System.Data.SqlClient.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\DAL\bin\Debug\DTO.pdb
+E:\Hệ thống quản lý thư viện (latest) (1)\DAL\bin\Debug\System.Data.SqlClient.xml
+E:\Hệ thống quản lý thư viện (latest) (1)\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Hệ thống quản lý thư viện (latest) (1)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Hệ thống quản lý thư viện (latest) (1)\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Hệ thống quản lý thư viện (latest) (1)\DAL\obj\Debug\DAL.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\DAL\obj\Debug\DAL.pdb

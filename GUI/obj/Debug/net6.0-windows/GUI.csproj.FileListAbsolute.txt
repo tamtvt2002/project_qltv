@@ -1,0 +1,412 @@
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\BLL.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DAL.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\BLL.pdb
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DAL.pdb
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Login.resources
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.SignUp.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.exe
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\BLL.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DAL.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DTO.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\BLL.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DTO.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DAL.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Login.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.SignUp.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Form_Load.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Main.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Readers_Manage.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.BorrowCard_GUI.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Main_user.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.MainChoUser_GUI.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Book_Manage.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Muon_Sach_User.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Report.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\BLL.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\BLL.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Book_Manage.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.BorrowCard_GUI.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Form_Load.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Login.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Main.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.MainChoUser_GUI.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Main_user.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Muon_Sach_User.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Readers_Manage.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Report.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.SignUp.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.exe
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\BLL.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DAL.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DTO.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\BLL.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DTO.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DAL.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Book_Manage.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.BorrowCard_GUI.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Form_Load.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Login.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Main.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.MainChoUser_GUI.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Main_user.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Muon_Sach_User.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Readers_Manage.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Report.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.SignUp.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\microsoft.office.interop.excel.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.ResolveComReference.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\EPPlus.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\BLL.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\BLL.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Book_Manage.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.BorrowCard_GUI.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Form_Load.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Login.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Main.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.MainChoUser_GUI.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Main_user.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Muon_Sach_User.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Readers_Manage.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Report.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.SignUp.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.BorrowCard_child_.resources
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.DetailBorrmow.resources
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\BLL.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\BLL.pdb
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Book_Manage.resources
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.BorrowCard_child_.resources
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.BorrowCard_GUI.resources
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.DetailBorrmow.resources
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Form_Load.resources
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Login.resources
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Main.resources
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.MainChoUser_GUI.resources
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Main_user.resources
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Muon_Sach_User.resources
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Readers_Manage.resources
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.Report.resources
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.SignUp.resources
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\GUI.exe
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\GUI.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\GUI.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\EPPlus.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\BLL.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\DAL.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\DTO.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\BLL.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\DTO.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\DAL.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.ResolveComReference.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Book_Manage.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.BorrowCard_child_.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.BorrowCard_GUI.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.DetailBorrmow.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Form_Load.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Login.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Main.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.MainChoUser_GUI.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Main_user.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Muon_Sach_User.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Readers_Manage.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Report.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.SignUp.resources
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\GUI.exe
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\GUI.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\GUI.pdb
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\EPPlus.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\BLL.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\DAL.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\DTO.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\BLL.pdb
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\DTO.pdb
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\bin\Debug\net6.0-windows\DAL.pdb
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.ResolveComReference.cache
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Book_Manage.resources
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.BorrowCard_child_.resources
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.BorrowCard_GUI.resources
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.DetailBorrmow.resources
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Form_Load.resources
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Login.resources
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Main.resources
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.MainChoUser_GUI.resources
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Main_user.resources
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Muon_Sach_User.resources
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Readers_Manage.resources
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.Report.resources
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.SignUp.resources
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.pdb
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+E:\Hệ thống quản lý thư viện (latest) (1)\GUI\obj\Debug\net6.0-windows\ref\GUI.dll

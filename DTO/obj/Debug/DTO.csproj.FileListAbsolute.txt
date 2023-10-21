@@ -1,0 +1,63 @@
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\DTO.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\DTO.pdb
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\System.Data.SqlClient.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\System.Data.SqlClient.xml
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.dll
+C:\Code\C#\C# Window Forms\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\DTO.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\DTO.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\System.Data.SqlClient.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\System.Data.SqlClient.xml
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.csproj.CopyComplete
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\DTO.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\DTO.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\System.Data.SqlClient.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\System.Data.SqlClient.xml
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.csproj.CopyComplete
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\Hệ-thống-quản-lý-thư-viện-latest_4\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DTO\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\Hệ thống quản lý thư viện (latest)\DTO\obj\Debug\DTO.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DTO\bin\Debug\DTO.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DTO\bin\Debug\DTO.pdb
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DTO\bin\Debug\System.Data.SqlClient.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DTO\bin\Debug\System.Data.SqlClient.xml
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DTO\obj\Debug\DTO.csproj.CopyComplete
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DTO\obj\Debug\DTO.dll
+E:\Lập trình .NET\Bài tập lớn .Net\Hệ thống quản lý thư viện (latest) (1)\DTO\obj\Debug\DTO.pdb
+E:\Hệ thống quản lý thư viện (latest) (1)\DTO\bin\Debug\DTO.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\DTO\bin\Debug\DTO.pdb
+E:\Hệ thống quản lý thư viện (latest) (1)\DTO\bin\Debug\System.Data.SqlClient.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\DTO\bin\Debug\System.Data.SqlClient.xml
+E:\Hệ thống quản lý thư viện (latest) (1)\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Hệ thống quản lý thư viện (latest) (1)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Hệ thống quản lý thư viện (latest) (1)\DTO\obj\Debug\DTO.csproj.CopyComplete
+E:\Hệ thống quản lý thư viện (latest) (1)\DTO\obj\Debug\DTO.dll
+E:\Hệ thống quản lý thư viện (latest) (1)\DTO\obj\Debug\DTO.pdb
